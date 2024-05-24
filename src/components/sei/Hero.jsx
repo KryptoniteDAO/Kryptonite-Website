@@ -27,7 +27,7 @@ export default function Hero() {
                   <Fade triggerOnce={true} delay={800}>
                     <div class="mt-10 flex items-center gap-x-6">
                       <a
-                        href="https://app.kryptonite.finance/"
+                        href="https://app.kryptonite.finance/sei"
                         target="_blank"
                         class="rounded-md bg-green-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-green-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-green-800"
                       >

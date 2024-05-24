@@ -56,13 +56,6 @@ export default function Hero() {
                         Nibiru
                       </a>
                       <a
-                        href="https://www.kryptonite.finance/litepaper"
-                        target="_blank"
-                        className="px-4 py-2 text-md"
-                      >
-                        Litepaper
-                      </a>
-                      <a
                         href="https://discord.com/invite/kryptonite-fi"
                         target="_blank"
                         className="px-4 py-2 text-md"
