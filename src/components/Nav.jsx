@@ -62,6 +62,13 @@ export default function Hero() {
                       >
                         Community
                       </a>
+                      <a
+                        href="https://docs.kryptonite.finance/"
+                        target="_blank"
+                        className="px-4 py-2 text-md"
+                      >
+                        Document
+                      </a>
                       <div className="md:flex hidden items-center pl-4">
                         <a
                           href="https://app.kryptonite.finance/"
@@ -74,7 +81,8 @@ export default function Hero() {
                     </div>
                   </div>
                   <div className="-mr-2  items-center hidden mt-4">
-                    <Disclosure.Button className="relative inline-flex items-center justify-center rounded-xl p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-green-500">
+                    <Disclosure.Button
+                        className="relative inline-flex items-center justify-center rounded-xl p-2 text-gray-400 hover:bg-gray-100 hover:text-gray-500 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-green-500">
                       <span className="absolute -inset-0.5" />
                       <span className="sr-only">Open main menu</span>
                       {open ? (
