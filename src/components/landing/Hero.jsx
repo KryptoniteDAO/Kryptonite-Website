@@ -36,16 +36,6 @@ export default function Hero() {
                   aria-hidden="true"
                 ></span>
                 <a
-                  href="/nibiru"
-                  className="flex items-center gap-x-1 hover:text-green-800"
-                >
-                  Nibiru
-                </a>
-                <span
-                  className="h-4 w-px bg-gray-900/10"
-                  aria-hidden="true"
-                ></span>
-                <a
                   href="/sei"
                   className="flex items-center gap-x-1 hover:text-green-800"
                 >

@@ -49,13 +49,6 @@ export default function Hero() {
                         Sei
                       </a>
                       <a
-                        href="/nibiru"
-                        className="px-4 py-2 text-md"
-                        aria-current="page"
-                      >
-                        Nibiru
-                      </a>
-                      <a
                         href="https://discord.com/invite/kryptonite-fi"
                         target="_blank"
                         className="px-4 py-2 text-md"
