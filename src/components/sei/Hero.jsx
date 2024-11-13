@@ -38,7 +38,7 @@ export default function Hero() {
                         href="https://www.kryptonite.finance/litepaper"
                         target="_blank"
                       >
-                        Learn more <span aria-hidden="true">→</span>
+                        Litepaper <span aria-hidden="true">→</span>
                       </a>
                     </div>
                   </Fade>

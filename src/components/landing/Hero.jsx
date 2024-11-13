@@ -73,7 +73,7 @@ export default function Hero() {
                   className="text-sm font-semibold leading-6 text-gray-900"
                   target="_blank"
                 >
-                  Learn more <span aria-hidden="true">→</span>
+                  Litepaper <span aria-hidden="true">→</span>
                 </a>
               </div>
             </Fade>
