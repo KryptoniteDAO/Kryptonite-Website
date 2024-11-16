@@ -35,10 +35,10 @@ export default function Roadmap() {
                 </time>
                 <div className="absolute top-10">
                   <p className="mt-6 text-base leading-7 text-green-100 ">
-                    SEILOR Token Launch and MEV Optimization
+                    New Kryptonite Product Launch and MEV Optimization
                   </p>
                   <p className="mt-6 text-sm leading-7 text-green-100 ">
-                    - Launch of SEILOR Token
+                    - Relaunch of Kryptonite
                   </p>
                   <p className="mt-1 text-sm leading-7 text-green-100 ">
                     - Deployment of MEV Optimization Features
@@ -165,10 +165,10 @@ export default function Roadmap() {
                   ></div>
                 </time>
                 <p className="mt-6 text-base leading-7 text-green-100 ">
-                  SEILOR Token Launch and MEV Optimization
+                  New Kryptonite Product Launch and MEV Optimization
                 </p>
                 <p className="mt-6 text-sm leading-7 text-green-100 ">
-                  - Launch of SEILOR Token
+                  - Relaunch of Kryptonite
                 </p>
                 <p className="mt-1 text-sm leading-7 text-green-100 ">
                   - Deployment of MEV Optimization Features
